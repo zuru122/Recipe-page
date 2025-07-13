@@ -31,7 +31,7 @@ Sunday Justice Gabriel
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/zuru122/Recipe-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://recipe-page-gwns.vercel.app/)
 
 ## My process
 * I first structured my content using html
